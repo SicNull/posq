@@ -96,7 +96,7 @@ public:
 };
 
 /**
- * Poseidon RPC command dispatcher.
+ * POSQ RPC command dispatcher.
  */
 class CRPCTable
 {
